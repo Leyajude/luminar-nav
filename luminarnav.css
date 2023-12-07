@@ -16,7 +16,10 @@ a:hover::after{
     padding: 11px;
     color: white;
 }
-
+.b1{
+    color: rgba(9, 8, 10, 0.755);
+    background-color: rgb(131, 92, 167);
+}
 .jj{ 
     opacity:55%;
     
@@ -24,7 +27,9 @@ a:hover::after{
 .head{
     font-size:50px;
 }
-
+ .hh{
+     color: rgba(39, 7, 70, 0.739);
+}
 @media(max-width:300px){    
 
 button{
@@ -47,4 +52,18 @@ p{
 #carouselExampleDark{
     height: 450px;
 }
+
+}
+.b2{
+    width: 36%;
+    height: 69px;
+    border-radius:60px ;
+    border: 2px solid black;
+    background-color: blueviolet;
+    text-align: center;
+    padding: 11px;
+    color: rgb(11, 8, 8);  
+}
+.cc{
+    color: blueviolet;
 }
