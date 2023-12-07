@@ -1,0 +1,38 @@
+a:hover{
+    text-decoration: underline rgb(95, 43, 226);
+    transition:0.3s ;
+}
+.button{
+    width: 25%;
+    height: 60px;
+    border-radius:50px ;
+    border: 2px solid black;
+    background-color: blueviolet;
+    text-align: center;
+    padding: 11px;
+    color: white;
+}
+
+.jj{ 
+    opacity:55%;
+    width:100%;
+    
+}
+.head{
+    font-size:50px;
+}
+
+@media(max-width:800px){    
+head{
+    font-size: 20px;
+}
+button{
+    width: 20%;
+    height: 50px;
+}
+.jj{
+    width: 100%;
+    height: 550px;
+}
+
+
