@@ -86,6 +86,7 @@ p{
 
 .cc{
     color: blueviolet;
+    
 }
 @media(max-width:360){
 /* .pic */
@@ -109,7 +110,8 @@ p{
 }
 .hj{
     text-align: center;
-    color: blueviolet;
+    color: rgb(112, 48, 172);
+    
 }
 span{
     color: rgba(75, 4, 142, 0.601);
@@ -137,4 +139,8 @@ h5{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
 
+}
+.row:hover{
+    transform: scale(1.04);
+    cursor:pointer;
 }
