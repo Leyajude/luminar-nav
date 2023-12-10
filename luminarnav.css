@@ -144,3 +144,6 @@ h5{
     transform: scale(1.04);
     cursor:pointer;
 }
+.firstbar{
+    background-color: blueviolet;
+}
